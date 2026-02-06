@@ -1,8 +1,9 @@
 import datetime
+
 from errors import (
     NotVaccinatedError,
     OutdatedVaccineError,
-    NotWearingMaskError
+    NotWearingMaskError,
 )
 
 
